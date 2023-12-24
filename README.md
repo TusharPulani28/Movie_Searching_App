@@ -2,10 +2,11 @@
 A web app for discovering and tracking movies and TV shows built using MongoDB, Express.js, React and Node.js
 
 ## Preview
-<img width="1440" alt="1" src="https://github.com/sarihammad/Trackr/assets/63919507/c34fe2fa-abff-4aa7-b65f-df49a8524cea">
-<img width="1440" alt="2" src="https://github.com/sarihammad/Trackr/assets/63919507/23e15b8d-7395-4c88-b799-f394f41f5fc1">
-<img width="1440" alt="3" src="https://github.com/sarihammad/Trackr/assets/63919507/8a2ed03e-31fc-467f-84e9-7bfba50eb169">
-<img width="1440" alt="4" src="https://github.com/sarihammad/Trackr/assets/63919507/57e84554-f54f-45f0-8a74-f78abef0f0d4">
+<img width="1440" alt="1" src="https://github.com/sarihammad/Trackr/assets/63919507/4fcdf9c3-1c2e-4dcb-be6f-a1be2beffc68">
+<img width="1440" alt="2" src="https://github.com/sarihammad/Trackr/assets/63919507/2634a2f3-6ab4-4999-8525-7af45bfa050a">
+<img width="1440" alt="3" src="https://github.com/sarihammad/Trackr/assets/63919507/20bebc16-c343-4035-b3e7-b081fecb2217">
+<img width="1440" alt="4" src="https://github.com/sarihammad/Trackr/assets/63919507/c59da349-7b7c-4cfe-9ff0-908d9d50f754">
+
 
 ## Prerequisites
 - Node.js and npm installed
