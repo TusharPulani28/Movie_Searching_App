@@ -19,12 +19,11 @@ A web app for discovering and tracking movies and TV shows built using MongoDB, 
 ```console
 git clone https://github.com/sarihammad/Trackr.git
 ```
-2. Change into the project directory and install dependencies:
+
+2. Change into the project directory and install server dependencies:
 
 ```console
-cd Trackr/client
-npm install
-cd ../server
+cd Trackr/server
 npm install
 ```
 
@@ -35,10 +34,16 @@ npm run
 ```
 This will start the Express.js server.
 
-4. Start the client:
+4. Change into the project directory and install client dependencies:
 
 ```console
-cd ../client
+cd Trackr/client
+npm install
+```
+
+5. Start the client:
+
+```console
 npm run
 ```
 This will start the React development server.
